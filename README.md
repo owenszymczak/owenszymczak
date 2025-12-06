@@ -1,7 +1,20 @@
 <!-- ## Hi there 👋 -->
-Hello! I'm Owen Szymczak, an asipring developer in many languages.
-## My Skills
+## 👋 Hi! I'm Owen.
 
+## About me
+
+I am currently learning Java, and already know several languages.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+
+I hope to become a Java developer someday. I mainly code in frontend languages(HTML+CSS+JS).
+
+Well, I guess that's all for now.
+<!-- usable badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -14,17 +27,15 @@ Hello! I'm Owen Szymczak, an asipring developer in many languages.
 [![Repos Badge](https://badges.pufler.dev/repos/owenszymczak)](https://github.com/owenszymczak?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/owenszymczak)](https://github.com/owenszymczak)
 
----
 
-## Statistics
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owenszymczak&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owenszymczak&layout=compact&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owenszymczak&theme=dark&hide_border=true)
+-->
 
-
-
----
 
 
 
