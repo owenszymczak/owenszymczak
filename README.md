@@ -13,7 +13,7 @@ I am currently learning Java, and already know several languages.<br>
 
 I hope to become a Java developer someday. I mainly code in frontend languages(HTML+CSS+JS).
 
-Well, I guess that's all for now.
+
 <!-- usable badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
