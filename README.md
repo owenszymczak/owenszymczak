@@ -1,6 +1,10 @@
 <!-- ## Hi there 👋 -->
 ## 👋 Hi! I'm Owen.
-
+[![GitHub followers](https://img.shields.io/github/followers/owenszymczak?style=flat-square)](https://github.com/owenszymczak?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/owenszymczak?style=flat-square)](https://github.com/owenszymczak?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=owenszymczak&style=flat-square)](https://github.com/owenszymczak)
+[![Repos Badge](https://badges.pufler.dev/repos/owenszymczak)](https://github.com/owenszymczak?tab=repositories)
+[![Years Badge](https://badges.pufler.dev/years/owenszymczak)](https://github.com/owenszymczak)
 ## About me
 
 I am currently learning Java, and already know several languages.
