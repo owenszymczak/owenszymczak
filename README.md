@@ -8,7 +8,7 @@
 ## About me
 
 I am currently learning Java, and already know several languages.
-
+I also like Minecraft😄.
 
 I hope to become a Java developer someday. I mainly code in frontend languages(HTML+CSS+JS).<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
