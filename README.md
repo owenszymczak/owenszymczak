@@ -17,6 +17,7 @@ I hope to become a Java developer someday. I mainly code in frontend languages(H
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 <!-- usable badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
